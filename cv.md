@@ -48,7 +48,7 @@ Currently completing a year long thesis with DR. Kara Cerveny on early retinal m
 
 `Fall 2017`
 **Undergraduate Independent Research in Developmental Biology**
-Designed and completed a year long lab research project on the hdac1 zebrafish mutanat. Transplanted hdac1 mutant cells into wild type zebrafish to analyze the environmental signalling effects of muatant cells existing in a wild type enviroemnt.
+Designed and completed a year long lab research project on the HDAC1 zebrafish mutant. Transplanted HDAC1 mutant cells into wild type zebrafish to analyze the environmental signalling effects of muatant cells existing in a wild type environment.
 
 
 <!-- ### Footer
