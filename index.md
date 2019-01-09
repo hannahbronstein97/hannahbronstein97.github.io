@@ -9,8 +9,9 @@ I am currently a senior at Reed College studying stem cell development in the ze
 ## Current Projects and Interests:
 
 ### Undergraduate Research
-- Undergraduate thesis in developmental biology at Reed College
+- Undergraduate thesis in developmental biology at Reed College.
+-Independnet research projects in gene regulation, cell biology, microbiology, developmental biology, and ecology at Reed College.
 
 ### Other Interests
-- Hiking and mountaineering in the Pacific North West and Adirondack Sate Park 
-- Musical performance (a capella and acoustic guitar) 
+- Hiking and mountaineering in the Pacific North West and Adirondack Sate Park.
+- Musical performance (a capella and acoustic guitar).
