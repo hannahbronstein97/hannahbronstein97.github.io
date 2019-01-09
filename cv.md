@@ -5,7 +5,6 @@ layout: resume
 
 My reserach focus is on stem cell progenitor migration in the zebrafish retina. I am currently completing a year long independent research project in Dr. Kara Cerveny’s Lab at Reed College focusing on retinal stem cell specification in developing zebrafish retinal stem cells. I have a passion for the outdoors and the study of biology, particularly molecular and cell biology in developmental contexts.
 
-
 ## Education
 
 `2015-2019`
